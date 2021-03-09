@@ -1,30 +1,21 @@
 Matlab Topic Modeling Toolbox
 -----------------------------
 
-Available at http://psiexp.ss.uci.edu/research/programs_data/toolbox.htm
+Somewhat outdated Matlab code that runs a number of topic models.
 
-Authors: 
+**Note: I no longer actively maintain this software.**
 
-Mark Steyvers
-msteyver@uci.edu
+More data and code from previous publications can be found here: https://steyvers.socsci.uci.edu/data-and-code
 
-University of California, Irvine
-Department of Cognitive Sciences
-3151 Social Sciences Plaza
-CA 92697-5100
-USA
+## Authors
 
-Tom Griffiths
-tom_griffiths@brown.edu
+[Mark Steyvers](https://steyvers.socsci.uci.edu)
+mark.steyvers@uci.edu
 
-Department of Cognitive and Linguistic Sciences
-Box 1978
-Brown University
-Providence, RI 02912-1978
-USA
+[Tom Griffiths](http://cocosci.princeton.edu/tom/index.php)
+tomg@princeton.edu
 
-
-LICENSING TERMS 
+## LICENSING TERMS 
 
 This program is granted free of charge for research and education
 purposes. However you must obtain a license from the authors to use it
@@ -40,7 +31,7 @@ When using toolbox, please cite as
 	Proceedings of the National Academy of Sciences, 101 (suppl. 1), 5228-5235.
 
 For use of specific models within the toolbox (e.g., the author-topic model, 
-the hmm-lda model), cite the appropriate reference listed on the toolbox web page.
+the hmm-lda model), cite the appropriate reference listed on the [toolbox web page](https://web.archive.org/web/20181020023624/http://psiexp.ss.uci.edu/research/programs_data/toolbox.htm).
  
 Moreover shall the authors of the Matlab Topic Modeling Toolbox be informed about the
 publication.
@@ -48,10 +39,10 @@ publication.
 The software must not be modified and distributed without prior
 permission of the author.
 
-By using the Matlab Topic Modeling Toolbox  you agree to the licensing terms.
+By using the Matlab Topic Modeling Toolbox you agree to the licensing terms.
 
 
-NO WARRANTY 
+## NO WARRANTY 
 
 BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY
 FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT
