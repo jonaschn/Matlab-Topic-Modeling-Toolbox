@@ -1,4 +1,5 @@
-Matlab Topic Modeling Toolbox
+[Matlab Topic Modeling Toolbox](https://web.archive.org/web/20181020023624/http://psiexp.ss.uci.edu/research/programs_data/toolbox.htm)
+![GitHub Repo stars](https://img.shields.io/badge/docs-archived-yellow)
 -----------------------------
 
 Somewhat outdated Matlab code that runs a number of topic models.
